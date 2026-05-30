@@ -15,10 +15,12 @@ Ask me about: Finance, Entreprenurship, How to start in the age of AI
 Some things I've built
 
 Financial services client app, an app built for a financial services founder
+
 Interactive study platform, a learning tool for students
+
 Plus a handful of client websites under Dalihad
 
-A little about me
+A little bit about me
 I'm honestly still a beginner, and I like it that way. There's always more to learn. I'm driven by curiosity and the idea that I can use what I build to genuinely help the people around me. Web design got me started, talking to clients pushed me toward apps, and finance and entrepreneurship keep me thinking about the bigger picture.
 
 
