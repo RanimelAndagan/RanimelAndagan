@@ -1,6 +1,6 @@
 <!-- ====== HEADER BANNER (animated gradient) ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=200&section=header&text=%24%20whoami&fontColor=58a6ff&fontSize=70&fontAlignY=38&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=200&section=header&text=%24%20whoami&fontColor=9E9E9E&fontSize=70&fontAlignY=38&animation=fadeIn" alt="header"/>
 </p>
 <!-- ====== ANIMATED TYPING SUBTITLE (grey, terminal comment style) ====== -->
 <h3 align="center">
