@@ -16,7 +16,7 @@ I'm still early in my tech journey, learning something new with every project I 
 
 ---
 
-### ⚡ Right now
+### 💼 Right now
 
 ```ts
 const me = {
@@ -30,7 +30,7 @@ const me = {
 
 ---
 
-### 🛠️ Stack & Tools
+### 💻 Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -43,7 +43,7 @@ const me = {
 
 ---
 
-### 🚀 Some things I've built
+### 🛠️ Some things I've built
 
 - **Financial services client app** — an app built for a financial services founder
 - **Interactive study platform** — a learning tool for students
@@ -51,7 +51,7 @@ const me = {
 
 ---
 
-### 👀 A little about me
+### 😵‍💫 A little about me
 
 I'm honestly still a beginner, and I like it that way. There's always more to learn. I'm driven by curiosity and the idea that I can use what I build to genuinely help the people around me. Web design got me started, talking to clients pushed me toward apps, and finance and entrepreneurship keep me thinking about the bigger picture.
 
