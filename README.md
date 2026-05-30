@@ -8,7 +8,7 @@ I'm currently learning: development the hands-on way, including HTML, CSS, JavaS
 
 What I love beyond code: finance, entrepreneurship, and figuring out how tech can make both more accessible
 
-I'm looking to collaborate on: projects that mix tech with finance, education, or helping local businesses grow
+I'm looking to collaborate on: projects that mix tech with finance, education, new network, or helping local businesses grow
 
 Ask me about: Finance, Entreprenurship, How to start in the age of AI
 
