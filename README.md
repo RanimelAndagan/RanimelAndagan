@@ -20,7 +20,7 @@ I'm still early in my tech journey, learning something new with every project I 
 
 ```ts
 const me = {
-  building:  "Dalihad — websites & apps for real clients and small businesses",
+  building:  "Dalihad - websites & apps for real clients and small businesses",
   learning:  ["TypeScript", "JavaScript", "development the hands-on way"],
   lovesBeyondCode: ["finance", "entrepreneurship", "making both more accessible"],
   collabOn:  ["tech + finance", "education", "helping local businesses grow"],
