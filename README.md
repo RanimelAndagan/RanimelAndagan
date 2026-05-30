@@ -10,7 +10,7 @@ I'm still early in my tech journey, learning something new with every project I 
 
 🛠️ I'm currently working on: Dalihad, building websites and apps for real clients and small businesses
 
-🔍 I'm currently learning: development the hands-on way, including Typescript, JavaScript, and how to ship things people can actually use
+🔍 I'm currently learning: development the hands-on way, including Typescript and JavaScript
 
 🗂️ What I love beyond code: finance, entrepreneurship, and figuring out how tech can make both more accessible
 
