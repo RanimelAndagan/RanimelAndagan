@@ -7,16 +7,17 @@
 I'm a self-taught builder, a financial advisor, and the founder of Dalihad, a brand that started in web design and is growing into app development. 
 I'm still early in my tech journey, learning something new with every project I take on.
 
-I'm currently working on: Dalihad, building websites and apps for real clients and small businesses
-I'm currently learning: development the hands-on way, including HTML, CSS, JavaScript, and how to ship things people can actually use
+🛠️ I'm currently working on: Dalihad, building websites and apps for real clients and small businesses
 
-What I love beyond code: finance, entrepreneurship, and figuring out how tech can make both more accessible
+🔍 I'm currently learning: development the hands-on way, including HTML, CSS, JavaScript, and how to ship things people can actually use
+
+🗂️ What I love beyond code: finance, entrepreneurship, and figuring out how tech can make both more accessible
 
 I'm looking to collaborate on: projects that mix tech with finance, education, new network, or helping local businesses grow
 
 Ask me about: Finance, Entreprenurship, How to start in the age of AI
 
-Some things I've built
+Some things I've built:
 
 Financial services client app, an app built for a financial services founder
 
