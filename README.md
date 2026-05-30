@@ -1,14 +1,13 @@
 <!-- ====== HEADER BANNER (animated gradient) ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D2D,100:8B0000&height=200&section=header&text=%24%20whoami&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=200&section=header&text=%24%20whoami&fontColor=58a6ff&fontSize=70&fontAlignY=38&animation=fadeIn" alt="header"/>
 </p>
-
 <!-- ====== ANIMATED TYPING SUBTITLE (grey, terminal comment style) ====== -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9E9E9E&center=true&vCenter=true&multiline=false&width=600&lines=compiling+something+useful...;self-taught+builder+and+founder+of+Dalihad;finance+tech+entrepreneurship;lets+build+something" alt="Typing SVG" />
 </h3>
-
 <br/>
+
 
 I'm a self-taught builder, a financial advisor, and the founder of **Dalihad**, a brand that started in web design and is growing into app development.
 
