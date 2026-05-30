@@ -1,4 +1,4 @@
-## Hi there 👋
+## $ whoami👋
 
 I'm a self-taught builder, a financial advisor, and the founder of Dalihad, a brand that started in web design and is growing into app development. 
 I'm still early in my tech journey, learning something new with every project I take on.
