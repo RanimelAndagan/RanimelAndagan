@@ -24,6 +24,7 @@ Some things I've built:
 - Plus a handful of client websites under Dalihad
 
 A little bit about me
+
 I'm honestly still a beginner, and I like it that way. There's always more to learn. I'm driven by curiosity and the idea that I can use what I build to genuinely help the people around me. Web design got me started, talking to clients pushed me toward apps, and finance and entrepreneurship keep me thinking about the bigger picture.
 
 
