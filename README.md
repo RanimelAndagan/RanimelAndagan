@@ -18,7 +18,6 @@ I'm still early in my tech journey, learning something new with every project I 
 
 ### ⚡ Right now
 
-```ts
 const me = {
   building:  "Dalihad — websites & apps for real clients and small businesses",
   learning:  ["TypeScript", "JavaScript", "development the hands-on way"],
