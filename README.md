@@ -1,7 +1,7 @@
 ## $ whoami
 
 
-404: boring bio not found
+> compiling something useful...
 
 
 I'm a self-taught builder, a financial advisor, and the founder of Dalihad, a brand that started in web design and is growing into app development. 
