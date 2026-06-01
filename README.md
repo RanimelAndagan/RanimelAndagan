@@ -9,7 +9,7 @@
 <br/>
 
 
-<p align="center"> I'm a self-taught builder 🛠️, a financial advisor 💸, and the founder of <b>Dalihad</b> 🖐🏻, a brand that started in web design and is growing into app development.
+<p align="center"> I'm a self-taught builder 🛠️, a financial advisor 💸, and the founder of <b>Dalihad</b> 🖐🏻
 
 <p align="center"> I'm still early in my tech journey, learning something new with every project I take on.
 
