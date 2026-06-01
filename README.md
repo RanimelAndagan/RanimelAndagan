@@ -13,7 +13,7 @@ I'm a self-taught builder, a financial advisor, and the founder of **Dalihad**, 
 
 I'm still early in my tech journey, learning something new with every project I take on.
 
----
+--
 
 ### <p align="center"> 💻 Tech Stack & Tools
 
