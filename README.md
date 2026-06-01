@@ -9,9 +9,9 @@
 <br/>
 
 
-I'm a self-taught builder, a financial advisor, and the founder of **Dalihad**, a brand that started in web design and is growing into app development.
+<p align="center"> I'm a self-taught builder, a financial advisor, and the founder of **Dalihad**, a brand that started in web design and is growing into app development.
 
-I'm still early in my tech journey, learning something new with every project I take on.
+<p align="center"> I'm still early in my tech journey, learning something new with every project I take on.
 
 <p align="center"> <b>Connect with me here!</b>
 
