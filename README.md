@@ -16,30 +16,25 @@ I'm still early in my tech journey, learning something new with every project I 
 <p align="center"> <b>Connect with me here!</b>
 
 <p align="center">
-  <a href="https://www.facebook.com/Raniiiimell">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/theoesquet/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ranimel-andagan-6127b1411/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Ranimelandagan@proton.me">
-    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://www.facebook.com/Raniiiimell"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/theoesquet/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/ranimel-andagan-6127b1411/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:Ranimelandagan@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
  <p align="center"> <b>💻 Tech Stack & Tools</b></p>
 
+<p align="center"><b>Currently learning:</b></p>
+
 <p align="center">
-<a href="https://www.facebook.com/Raniiiimell"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/theoesquet/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/ranimel-andagan-6127b1411/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:Ranimelandagan@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,py,git" />
+  </a>
 </p>
+
+<p align="center"><i>+ React Native &middot; Rapier (3D physics)</i></p>
 
 
 ---
