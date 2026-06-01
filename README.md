@@ -17,13 +17,11 @@ I'm still early in my tech journey, learning something new with every project I 
 
 ### 💻 Stack & Tools
 
-**Building with:**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
-
-**Currently learning:**
-
-[![My Skills](https://skillicons.dev/icons?i=threejs,react)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,threejs" />
+  </a>
+</p>
 
 ---
 
