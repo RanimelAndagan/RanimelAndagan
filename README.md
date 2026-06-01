@@ -15,7 +15,8 @@ I'm still early in my tech journey, learning something new with every project I 
 
 ---
 
-### <p align="center"> 💻 Stack & Tools
+### <p align="center"> 💻 Tech Stack & Tools
+
 
 <p align="center">
   <a href="https://skillicons.dev">
