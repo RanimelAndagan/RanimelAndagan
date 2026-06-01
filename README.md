@@ -1,8 +1,8 @@
-<!-- ====== HEADER BANNER (animated gradient) ====== -->
+<!--  HEADER BANNER (animated gradient)  -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=200&section=header&text=%24%20whoami&fontColor=9E9E9E&fontSize=70&fontAlignY=38&animation=fadeIn" alt="header"/>
 </p>
-<!-- ====== ANIMATED TYPING SUBTITLE (grey, terminal comment style) ====== -->
+<!-- ANIMATED TYPING SUBTITLE (grey, terminal comment style)  -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9E9E9E&center=true&vCenter=true&multiline=false&width=600&lines=compiling+something+useful...;self-taught+builder+and+founder+of+Dalihad;finance+tech+entrepreneurship;lets+build+something" alt="Typing SVG" />
 </h3>
