@@ -38,8 +38,6 @@ I'm still early in my tech journey, learning something new with every project I 
   </a>
 </p>
 
-<p align="center"><i>+ React Native &middot; Rapier (3D physics)</i></p>
-
 
 ---
 
