@@ -25,7 +25,11 @@ I'm still early in my tech journey, learning something new with every project I 
 ---
 
  <p align="center"> <b>💻 Tech Stack & Tools</b></p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,threejs" />
+  </a>
+</p>
 <p align="center"><b>Currently learning:</b></p>
 
 <p align="center">
