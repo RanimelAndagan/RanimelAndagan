@@ -15,6 +15,12 @@ I'm still early in my tech journey, learning something new with every project I 
 
 ---
 
+### 💻 Stack & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,threejs)](https://skillicons.dev)
+
+---
+
 ### 💼 Right now
 
 ```ts
@@ -26,12 +32,6 @@ const me = {
   askMeAbout: ["Finance", "Entrepreneurship", "How to start in the age of AI"],
 };
 ```
-
----
-
-### 💻 Stack & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,threejs)](https://skillicons.dev)
 
 ---
 
