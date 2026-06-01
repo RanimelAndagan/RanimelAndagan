@@ -17,7 +17,13 @@ I'm still early in my tech journey, learning something new with every project I 
 
 ### 💻 Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,threejs)](https://skillicons.dev)
+**Building with:**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+
+**Currently learning:**
+
+[![My Skills](https://skillicons.dev/icons?i=threejs,react)](https://skillicons.dev)
 
 ---
 
